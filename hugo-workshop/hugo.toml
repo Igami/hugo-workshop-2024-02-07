@@ -1,4 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'NUM33R5'
-theme = 'PaperMod'
+# theme = 'PaperMod'
+theme = 'relearn'
+

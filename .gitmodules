@@ -1,3 +1,6 @@
 [submodule "hugo-workshop/themes/PaperMod"]
 	path = hugo-workshop/themes/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "hugo-workshop/themes/relearn"]
+	path = hugo-workshop/themes/relearn
+	url = https://github.com/McShelby/hugo-theme-relearn.git
