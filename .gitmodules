@@ -4,3 +4,6 @@
 [submodule "hugo-workshop/themes/relearn"]
 	path = hugo-workshop/themes/relearn
 	url = https://github.com/McShelby/hugo-theme-relearn.git
+[submodule "themes/blist"]
+	path = themes/blist
+	url = https://github.com/apvarun/blist-hugo-theme.git
